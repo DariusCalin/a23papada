@@ -7,38 +7,41 @@
 <link rel="self" type="application/atom+xml" href="https://dariuscalin.github.io/a23papadaatom.github.io/atom_DCP.atom"/>
 <link rel="alternate" type="text/html" href="https://dariuscalin.github.io/a23papadaatom.github.io/index_DCP.html"/>
 
-<author>
-    <name>Darius Calin Padurariu</name>
-    <email>a23papada@iesgrancapitan.org</email>
-</author>
-
 <feed>    
     <entry>
         <title>Sevilla FC - Atlético Madrid (1-0) (La Liga)</title>
         <link>https://youtu.be/lePKmMjBSgY</link>
         <summary>Victoria del Sevilla FC en el Ramón Sánchez-Pizjuán</summary>
         <updated>2024-02-20T17:30:00z</updated>
-        <author>Darius Calin Padurariu</author>
+        <author>
+            <name>Darius Calin Padurariu</name>
+        </author>
     </entry>
     <entry>
         <title>Rayo Vallecano - Sevilla FC (0-1) (La Liga)</title>
         <link>https://youtu.be/IbaIZd0IsiE</link>
         <summary>Victoria del Sevilla FC en Vallecas</summary>
         <updated>2024-02-20T18:00:00z</updated>
-        <author>Darius Calin Padurariu</author>
+        <author>
+            <name>Darius Calin Padurariu</name>
+        </author>
     </entry>
     <entry>
         <title>Sevilla FC - Osasuna (1-1) (La Liga)</title>
         <link>https://youtu.be/n1F31rlWIDQ</link>
         <summary>Empate del Sevilla FC en el Ramón Sánchez-Pizjuán</summary>
         <updated>2024-02-20T18:30:00z</updated>
-        <author>Darius Calin Padurariu</author>
+        <author>
+            <name>Darius Calin Padurariu</name>
+        </author>
     </entry>
     <entry>
         <title>Atlético Madrid - Sevilla FC (1-0) (Copa del Rey)</title>
         <link>https://youtu.be/zn3dRMv1RA8</link>
         <summary>Derrota del Sevilla FC en el Cívitas Metropolitano</summary>
         <updated>2024-02-20T19:00:00z</updated>
-        <author>Darius Calin Padurariu</author>
+        <author>
+            <name>Darius Calin Padurariu</name>
+        </author>
     </entry>
 </feed>
