@@ -1,46 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es"> 
-
+<feed xmlns="http://www.w3.org/2005/Atom"> 
 <title>Sevilla FC en ATOM</title>
 <id>https://dariuscalin.github.io/a23papadaatom.github.io/</id>
-
-<link rel="self" type="application/atom+xml" href="https://dariuscalin.github.io/a23papadaatom.github.io/atom_DCP.atom"/>
+<updated>2024-02-20T17:00:00Z</updated>
+<link href="https://dariuscalin.github.io/a23papadaatom.github.io/atom_DCP.atom"/>
 <link rel="alternate" type="text/html" href="https://dariuscalin.github.io/a23papadaatom.github.io/index_DCP.html"/>
-
     
     <entry>
         <title>Sevilla FC - Atlético Madrid (1-0) (La Liga)</title>
-        <link>https://youtu.be/lePKmMjBSgY</link>
+        <id>https://youtu.be/lePKmMjBSgY</id>
+        <link href="https://youtu.be/lePKmMjBSgY"/>
         <summary>Victoria del Sevilla FC en el Ramón Sánchez-Pizjuán</summary>
-        <updated>2024-02-20T17:30:00z</updated>
+        <updated>2024-02-20T17:30:00Z</updated>
         <author>
             <name>Darius Calin Padurariu</name>
         </author>
     </entry>
+
     <entry>
         <title>Rayo Vallecano - Sevilla FC (0-1) (La Liga)</title>
-        <link>https://youtu.be/IbaIZd0IsiE</link>
+        <id>https://youtu.be/IbaIZd0IsiE</id>
+        <link href="https://youtu.be/IbaIZd0IsiE"/>
         <summary>Victoria del Sevilla FC en Vallecas</summary>
-        <updated>2024-02-20T18:00:00z</updated>
+        <updated>2024-02-20T18:00:00Z</updated>
         <author>
             <name>Darius Calin Padurariu</name>
         </author>
     </entry>
+
     <entry>
         <title>Sevilla FC - Osasuna (1-1) (La Liga)</title>
-        <link>https://youtu.be/n1F31rlWIDQ</link>
+        <id>https://youtu.be/n1F31rlWIDQ</id>
+        <link href="https://youtu.be/n1F31rlWIDQ"/>
         <summary>Empate del Sevilla FC en el Ramón Sánchez-Pizjuán</summary>
-        <updated>2024-02-20T18:30:00z</updated>
+        <updated>2024-02-20T18:30:00Z</updated>
         <author>
             <name>Darius Calin Padurariu</name>
         </author>
     </entry>
+
     <entry>
         <title>Atlético Madrid - Sevilla FC (1-0) (Copa del Rey)</title>
-        <link>https://youtu.be/zn3dRMv1RA8</link>
+        <id>https://youtu.be/zn3dRMv1RA8</id>
+        <link href="https://youtu.be/zn3dRMv1RA8"/>
         <summary>Derrota del Sevilla FC en el Cívitas Metropolitano</summary>
-        <updated>2024-02-20T19:00:00z</updated>
+        <updated>2024-02-20T19:00:00Z</updated>
         <author>
             <name>Darius Calin Padurariu</name>
         </author>
     </entry>
+</feed>
